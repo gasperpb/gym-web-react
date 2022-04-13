@@ -1,0 +1,11 @@
+@import "../../App.css";
+
+.footer {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+}
+.footer h6 {
+  cursor: pointer;
+  color: #fff;
+}

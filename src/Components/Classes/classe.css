@@ -1,0 +1,20 @@
+@import "../../App.css";
+
+.classes {
+  position: relative;
+  margin-bottom: 200px;
+  background: rgb(95, 92, 92);
+  padding: 20px;
+  color: white;
+}
+.classes .col-sm-5 {
+  margin: 30px auto;
+}
+.classes h6 {
+  font-size: 35px;
+  font-weight: 600;
+}
+.classes p {
+  font-size: 12px;
+  font-weight: 30px auto;
+}

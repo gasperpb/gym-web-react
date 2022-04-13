@@ -1,0 +1,26 @@
+@import "../../App.css";
+.about {
+  background-color: #000;
+  height: 80vh;
+  width: 100vh;
+  padding: 20px;
+  color: #fff;
+}
+.about .col-sm-5 h6 {
+  margin: 70px auto;
+  font-size: 50px;
+  font-weight: 600;
+}
+.about .col-sm-5 span {
+  color: var(--main);
+}
+.bout img {
+  margin-top: 20px;
+  overflow: hidden;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+.about img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
