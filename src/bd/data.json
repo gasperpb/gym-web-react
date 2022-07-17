@@ -1,0 +1,28 @@
+[
+ {
+    "id": 1,
+    "title": "Agachamento Livre",
+    "description": "Em pé, com as pernas afastadas na largura dos ombros, apoie uma barra atrás do pescoço e sobre os ombros. Flexione os joelhos, agachando até que coxas fiquem paralelas ao chão. Então, volte à posição inicial.Continua após a publicidade",
+    "image_0": "../../Images/gallery1.png",
+    "image_1": "src/Images/Exercises/agachamento-livre-retroversao-pelvica.png",
+    "image_2": "src/Images/Exercises/músculos-trabalhados-agachamento.jpg",
+    "video": "",
+    "muscle": "Pernas e glúteos",
+    "equipment": "Barra"
+    }
+    
+,    {
+    "id": 2,
+    "title": "Agachamento Livre",
+    "description": "Em pé, com as pernas afastadas na largura dos ombros, apoie uma barra atrás do pescoço e sobre os ombros. Flexione os joelhos, agachando até que coxas fiquem paralelas ao chão. Então, volte à posição inicial.Continua após a publicidade",
+    "image_0": "../../Images/gallery1.png",
+    "image_1": "src/Images/Exercises/agachamento-livre-retroversao-pelvica.png",
+    "image_2": "src/Images/Exercises/músculos-trabalhados-agachamento.jpg",
+    "video": "",
+    "muscle": "Pernas e glúteos",
+    "equipment": "Barra"
+    
+    
+}
+
+]

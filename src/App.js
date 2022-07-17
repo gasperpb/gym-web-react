@@ -1,3 +1,4 @@
+import { ChakraProvider } from "@chakra-ui/react";
 import "./App.css";
 import About from "./Components/About/about";
 import Classes from "./Components/Classes/classes";
@@ -8,12 +9,14 @@ import Popular from "./Components/Popular_class/popular";
 const App = () => {
   return (
     <div>
-      <Navbar />
-      <Header />
-      <Popular />
-      <About />
-      <Classes />
-      <Footer />
+      <ChakraProvider>
+        <Navbar />
+        <Header />
+        <Popular />
+        <About />
+        <Classes />
+        <Footer />
+      </ChakraProvider>
     </div>
   );
 };
